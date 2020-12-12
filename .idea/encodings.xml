@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springbootHelloWord/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootHelloWord/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootfileupload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootfileupload/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootjdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootjsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootjsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootmybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootmybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootmybatishometest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootthymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootthymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springfreemarker/src/main/java" charset="UTF-8" />
+  </component>
+</project>

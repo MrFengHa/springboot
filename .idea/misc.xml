@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springbootfileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootHelloWord/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootjsp/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootmybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootmybatishometest/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootthymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootweb/pom.xml" />
+        <option value="$PROJECT_DIR$/springfreemarker/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" />
+</project>

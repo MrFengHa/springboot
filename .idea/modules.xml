@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootHelloWord/springbootHelloWord.iml" filepath="$PROJECT_DIR$/springbootHelloWord/springbootHelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfileupload/springbootfileupload.iml" filepath="$PROJECT_DIR$/springbootfileupload/springbootfileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjsp/springbootfreemarker.iml" filepath="$PROJECT_DIR$/springbootjsp/springbootfreemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" filepath="$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmybatis/springbootmybatis.iml" filepath="$PROJECT_DIR$/springbootmybatis/springbootmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmybatishometest/springbootmybatishometest.iml" filepath="$PROJECT_DIR$/springbootmybatishometest/springbootmybatishometest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootweb/springbootweb.iml" filepath="$PROJECT_DIR$/springbootweb/springbootweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springfreemarker/springfreemarker.iml" filepath="$PROJECT_DIR$/springfreemarker/springfreemarker.iml" />
+    </modules>
+  </component>
+</project>

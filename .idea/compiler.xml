@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootthymeleaf" />
+        <module name="springbootweb" />
+        <module name="springbootfileupload" />
+        <module name="springbootfreemarker" />
+        <module name="springbootmybatishometest" />
+        <module name="springbootmybatis" />
+        <module name="springfreemarker" />
+        <module name="springbootHelloWord" />
+        <module name="springbootjdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootfileupload" target="1.8" />
+      <module name="springbootfreemarker" target="1.8" />
+      <module name="springbootHelloWord" target="1.8" />
+      <module name="springbootjdbc" target="1.8" />
+      <module name="springbootmybatis" target="1.8" />
+      <module name="springbootmybatishometest" target="1.8" />
+      <module name="springbootthymeleaf" target="1.8" />
+      <module name="springbootweb" target="1.8" />
+      <module name="springfreemarker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootHelloWord" options="-parameters" />
+      <module name="springbootfileupload" options="-parameters" />
+      <module name="springbootfreemarker" options="-parameters" />
+      <module name="springbootjdbc" options="-parameters" />
+      <module name="springbootmybatis" options="-parameters" />
+      <module name="springbootmybatishometest" options="-parameters" />
+      <module name="springbootthymeleaf" options="-parameters" />
+      <module name="springbootweb" options="-parameters" />
+      <module name="springfreemarker" options="-parameters" />
+    </option>
+  </component>
+</project>
